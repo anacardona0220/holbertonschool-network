@@ -62,3 +62,6 @@ A port is a logical construct used to identify specific processes or services ru
 
 ## Network Connectivity Checking
 The Ping protocol/tool is often used to check if a device is connected to a network. Ping sends a small packet of data (ICMP Echo Request) to a target device and waits for a response (ICMP Echo Reply). If a response is received, it indicates that the device is reachable and connected to the network. Ping is widely used for network troubleshooting and verifying network connectivity.
+
+## Authors
+![GitHub Contributors Image](https://contrib.rocks/image?repo=anacardona0220/holbertonschool-higher_level_programming) Ana Maria Cardona Botero - <a href="https://github.com/anacardona0220" target="_blank"> @anacardona0220</a> :genie_woman:![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=anacardona0220&show_icons=true)
